@@ -10,3 +10,9 @@ __pycache__/
 
 be/gcp-key.json
 be/*.env
+
+fe/.next/
+be/__pycache__/
+**/__pycache__/
+*.pyc
+*:Zone.Identifier
