@@ -1,0 +1,12 @@
+node_modules/
+fe/node_modules/
+.next/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+be/gcp-key.json
+be/*.env
